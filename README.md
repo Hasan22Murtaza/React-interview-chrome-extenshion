@@ -1,7 +1,3 @@
-Sure! Here's a description for your "React Interview Chrome Extension":
-
----
-
 ### React Interview Chrome Extension
 
 **Description:**
