@@ -20,7 +20,5 @@ The React Interview Chrome Extension is a powerful tool designed to help develop
 - **Offline Availability:** With IndexedDB storage, your data remains available even offline, ensuring you can continue your preparation anytime.
 
 This extension is a valuable resource for developers looking to ace their React interviews and stay current with the latest best practices and concepts in React.
+![image](https://github.com/user-attachments/assets/3161cea5-eed2-4aae-8a47-dd6f50cbbd2c)
 
----
-
-Feel free to adjust any details to better fit the specific features or focus of your extension!
